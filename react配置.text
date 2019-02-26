@@ -1,0 +1,28 @@
+全局安装react--------------------
+npm install -g create-react-app 
+or
+yarn -g create-react-app
+
+新建一个项目------------------
+create-react-app react-demo
+
+进入项目并启动---------------
+cd react-demo
+
+npm start
+or 
+yarn start
+
+
+npm run eject
+
+安装React-router \\http://react-guide.github.io/react-router-cn/docs/Introduction.html
+npm i react-router-dom --save
+
+
+
+
+
+
+
+npm install --save react-redux
